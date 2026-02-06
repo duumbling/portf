@@ -29,7 +29,7 @@ export const MainPageTrySection = () => {
         </p>
       </div>
       <div class=${cls.MainPageTrySectionCourseContainer}>
-      <a href="https://delicate-cat-53da48.netlify.app/" target="_blank"> 
+      <a href="https://trycourse.vercel.app/" target="_blank"> 
       <button class=${cls.MainPageTrySectionCourseContainer_button}>
   
        <p>Попробуй</p>
